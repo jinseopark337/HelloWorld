@@ -1,3 +1,5 @@
 Second File
 
-have to commit -> push 
+have to commit -> push 내용 수정
+
+안녕하세요 좋은 밤 되세요!
